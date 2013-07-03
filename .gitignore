@@ -1,0 +1,11 @@
+*.class
+.classpath
+.project
+.settings
+ 
+prueba_test/target/*
+ 
+# Package Files #
+*.jar
+*.war
+*.ear

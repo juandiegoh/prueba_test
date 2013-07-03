@@ -35,4 +35,8 @@ public class AppTest extends TestCase {
 	public void testApp2() {
 		assertTrue(true);
 	}
+	
+	public void testApp3() {
+		assertTrue(true);
+	}
 }
